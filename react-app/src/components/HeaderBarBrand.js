@@ -16,6 +16,13 @@ const HeaderBarBrand = () => (
       <span className="brand-second">SHOPPING</span>
       <span className="brand-third">LIST</span>
     </NavLink>
+    <NavLink to="/.auth/login/github" className="navbar-item nav-home">
+      <span className="brand-first">Login</span>
+    </NavLink>
+    <NavLink to="/.auth/logout" className="navbar-item nav-home">
+      <span className="brand-first">Log out</span>
+      
+    </NavLink>
   </div>
 );
 
