@@ -1,15 +1,15 @@
 {
     "routes": [
       {
-        "route": "/login",
+        "route": "/.auth/login/github",
         "serve": "/.auth/login/github"
       },
       {
-        "route": "/login",
+        "route": "/.auth/login/facebook",
         "serve": "/.auth/login/facebook"
       },
       {
-        "route": "/logout",
+        "route": "/.auth/logout",
         "serve": "/.auth/logout"
       },
       {
