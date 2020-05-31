@@ -4,8 +4,4 @@
     "id": "Microsoft.Azure.Functions.ExtensionBundle",
     "version": "[1.*, 2.0.0)"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> da0c80206dadfe3ba7cc96393230250c010589d1
